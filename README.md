@@ -1,10 +1,11 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Customized%20By%20%3A-Rupesh%20Pradhan-blue)
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/Rupeshh03/hospital-management-system/blob/main/static/screenshots/homepage.png?raw=true)
+
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
 ### Invoice
@@ -79,3 +80,7 @@ This project is developed for demo purpose and it's not supposed to be used in r
 Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Facebook](https://fb.com/sumit.luv)
 - [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+
+## Credits
+This project is based on an open-source Hospital Management System originally created by Rupesh Pradhan.  
+I have customized, fixed bugs, and extended features for learning and demonstration purposes.
