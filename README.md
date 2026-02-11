@@ -7,10 +7,10 @@
 ![homepage snap](https://github.com/Rupeshh03/hospital-management-system/blob/main/static/screenshots/homepage.png?raw=true)
 
 ### Admin Dashboard
-![dashboard snap](https://github.com/Rupeshh03/hospital-management-system/main/static/screenshots/admin_dashboard.png)
+![dashboard snap](https://github.com/Rupeshh03/hospital-management-system/blob/main/static/screenshots/admin_dashboard.png)
 
 ### Doctor 
-![doctor snap](https://github.com/Rupeshh03/hospital-management-system/main/static/screenshots/doctor.png)
+![doctor snap](https://github.com/Rupeshh03/hospital-management-system/blob/main/static/screenshots/doctor.png)
 ---
 ## Functions
 ### Admin
