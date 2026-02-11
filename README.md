@@ -7,11 +7,10 @@
 ![homepage snap](https://github.com/Rupeshh03/hospital-management-system/blob/main/static/screenshots/homepage.png?raw=true)
 
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
-### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
-### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
+![dashboard snap](https://github.com/Rupeshh03/hospital-management-system/blob/master/static/screenshots/admin_dashboard.png?raw=true)
+
+### Doctor 
+![doctor snap](https://github.com/Rupeshh03/hospital-management-system/blob/master/static/screenshots/doctor.png?raw=true)
 ---
 ## Functions
 ### Admin
@@ -77,10 +76,8 @@ https://myaccount.google.com/lesssecureapps
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
 ## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
-
+Any suggestion and feedback is welcome. You can message me on LinkedIn
+- [Contact on LinkedIn](https://www.linkedin.com/in/rupesh-pradhan-3a172427b)
 ## Credits
 This project is based on an open-source Hospital Management System originally created by Rupesh Pradhan.  
 I have customized, fixed bugs, and extended features for learning and demonstration purposes.
